@@ -1,0 +1,30 @@
+body, h1, h3 {
+  margin: 0;
+  padding: 0;
+  }
+  body {
+  background-color: #42d9e1;
+  font-family: Arial, sans-serif;
+  }
+  .project_table {
+  padding: 20px;
+  border-radius: 20px;
+  }
+  h1, h3 {
+  color: #333;
+  }
+  label {
+  font-weight: bold;
+  }
+  form-control {
+  margin-bottom: 10px;
+  }
+  .btn-primary {
+  background-color: #887bff;
+  color: #fff;
+  border: none;
+  }
+  .btn-primary:hover{
+  background-color: Wedd417;
+  color: black;
+}
